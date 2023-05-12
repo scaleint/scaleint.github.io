@@ -1,7 +1,7 @@
 {
     "firmware": [
         {
-            "version": 1,
+            "version": 2,
             "url": "uart2wifi-1.bin",
             "enforce": true
         }
