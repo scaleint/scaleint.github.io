@@ -1,0 +1,53 @@
+{
+    "input": [
+        {
+            "id": "MKCells Di02 TF=4",
+            "pattern": "0x02%mkcellsa:1%%mkcellsb:1%%mkcellsc:1%%gross:6%%tare:6%0x0D0x0A%cks:2%",
+            "sample": "0x023180000000001960x0D0x0A0xC30xBB"
+        },
+        {
+            "id": "MKCells Di02 TF=5",
+            "pattern": "0x02%mkcellsa:1%%mkcellsb:1%%mkcellsc:1%%gross:6%%tare:6%0x0D%cks:1%",
+            "sample": "0x02+080030100010050x0D0x2E"
+        }
+    ],
+    "parameter": [],
+    "output": {
+        "format": {
+            "width": 37,
+            "date": "%d %B %Y",
+            "time": "%H.%M.%S",
+            "double": {
+                "DEL_decimal": 1,
+                "digit": 6,
+                "DEL_padding": " ",
+                "sign": "+"
+            },
+            "DEL_integer": {
+                "digit": 1,
+                "padding": "0",
+                "sign": " "
+            }
+        },
+        "header": [],
+        "body": [
+            "",
+            "PT. BETON PERKASA WIJAKSANA",
+            "",
+            "CUSTOMER        : ...................",
+            "PROYEK          : ...................",
+            "-------------------------------------",
+            "%date%    %time%",
+            "",
+            "Tare            %tare%%unit%",
+            "Netto           %net%%unit%",
+            "Gross           %gross%%unit%",
+            "-------------------------------------",
+            "Operator        : ...................",
+            "Paraf           : ...................",
+            "",
+            ""
+        ],
+        "footer": []
+    }
+}
