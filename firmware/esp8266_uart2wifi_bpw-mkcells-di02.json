@@ -1,6 +1,6 @@
 {
-    "version": 3,
-    "firmware": "esp8266_uart2wifi_bpw-mkcells-di02/firmware_v3.bin",
+    "version": 4,
+    "firmware": "esp8266_uart2wifi_bpw-mkcells-di02/firmware_v4.bin",
     "filesystem": {
         "version": 3,
         "files": {
