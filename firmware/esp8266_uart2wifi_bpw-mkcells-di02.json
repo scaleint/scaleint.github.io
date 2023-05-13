@@ -1,8 +1,8 @@
 {
-    "version": 1,
+    "version": 2,
     "firmware": "esp8266_uart2wifi_bpw-mkcells-di02/firmware_v2.bin",
     "filesystem": {
-        "version": 2,
+        "version": 1,
         "files": {
             "favicon.ico": "favicon.ico",
             "style.css": "style.css",
