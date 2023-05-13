@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "url": "esp8266_uart2wifi_bpw-mkcells-di02_v1.bin",
-    "data": {
+    "firmware": "esp8266_uart2wifi_bpw-mkcells-di02_v2.bin",
+    "filesystem": {
         "index.html": "esp8266_uart2wifi_bpw-mkcells-di02_index.html",
         "style.css": "esp8266_uart2wifi_bpw-mkcells-di02_style.css",
         "script.js": "esp8266_uart2wifi_bpw-mkcells-di02_script.js",
