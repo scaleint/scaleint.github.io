@@ -2,11 +2,14 @@
     "version": 4,
     "firmware": "esp8266_uart2wifi_bpw-mkcells-di02_v4.bin",
     "filesystem": {
-        "index.html": "esp8266_uart2wifi_bpw-mkcells-di02_index.html",
-        "style.css": "esp8266_uart2wifi_bpw-mkcells-di02_style.css",
-        "script.js": "esp8266_uart2wifi_bpw-mkcells-di02_script.js",
-        "favicon.ico": "esp8266_uart2wifi_bpw-mkcells-di02_favicon.ico",
-        "setting.html": "esp8266_uart2wifi_bpw-mkcells-di02_setting.html",
-        "constant.json": "esp8266_uart2wifi_bpw-mkcells-di02_constant.json"
+        "version": 2,
+        "files": {
+            "index.html": "esp8266_uart2wifi_bpw-mkcells-di02_index.html",
+            "style.css": "esp8266_uart2wifi_bpw-mkcells-di02_style.css",
+            "script.js": "esp8266_uart2wifi_bpw-mkcells-di02_script.js",
+            "favicon.ico": "esp8266_uart2wifi_bpw-mkcells-di02_favicon.ico",
+            "setting.html": "esp8266_uart2wifi_bpw-mkcells-di02_setting.html",
+            "constant.json": "esp8266_uart2wifi_bpw-mkcells-di02_constant.json"
+        }
     }
 }
