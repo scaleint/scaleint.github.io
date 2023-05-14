@@ -11,10 +11,6 @@
     <form class="w3-container" action="/setting" method="POST" onsubmit="return confirm('Apply and restart now?');">
         <h2>Device</h2>
         <p>
-            <label>ID</label>
-            <input class="w3-input" type="text" name="device_id" id="device_id" value="%device_id%" disabled>
-        </p>
-        <p>
             <label>Firmware Version</label>
             <input class="w3-input" type="number" name="firmware_version" id="firmware_version"
                 value="%firmware_version%" disabled>
@@ -25,9 +21,9 @@
         </p>
         <h2>Timezone</h2>
         <p>
-            <label>Offset (milliseconds)</label>
-            <input class="w3-input" type="number" name="timezone_offset_msec" id="timezone_offset_msec"
-                value="%timezone_offset_msec%">
+            <label>Offset (seconds)</label>
+            <input class="w3-input" type="number" name="timezone_offset_sec" id="timezone_offset_sec"
+                value="%timezone_offset_sec%">
         </p>
         <h2>Input</h2>
         <p>

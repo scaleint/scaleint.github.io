@@ -3,7 +3,7 @@
         {
             "id": "MKCells Di02 TF=4",
             "pattern": "0x02%mkcellsa:1%%mkcellsb:1%%mkcellsc:1%%gross:6%%tare:6%0x0D0x0A%cks:2%",
-            "sample": "0x023180000000001960x0D0x0A0xC30xBB"
+            "sample": "0x023780000220000000x0D0x0A0x2E0x2E"
         },
         {
             "id": "MKCells Di02 TF=5",
