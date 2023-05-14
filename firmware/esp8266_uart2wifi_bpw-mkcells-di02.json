@@ -1,12 +1,5 @@
 {
-    "version": 5,
-    "firmware": "esp8266_uart2wifi_bpw-mkcells-di02/firmware_v5.bin",
-    "filesystem": {
-        "version": 3,
-        "files": {
-            "index.html": "esp8266_uart2wifi_bpw-mkcells-di02/index.html",
-            "setting.html": "esp8266_uart2wifi_bpw-mkcells-di02/setting.html",
-            "constant.json": "esp8266_uart2wifi_bpw-mkcells-di02/constant.json"
-        }
-    }
+    "version": 6,
+    "firmware": "esp8266_uart2wifi_bpw-mkcells-di02/firmware_v6.bin",
+    "filesystem": "esp8266_uart2wifi_bpw-mkcells-di02/littlefs_v6.bin"
 }
