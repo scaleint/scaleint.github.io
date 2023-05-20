@@ -1,0 +1,5 @@
+{
+    "version": 2,
+    "firmware": "esp8266_uart-printer_bpw-mkcells-di02_firmware_v2.bin",
+    "filesystem": "esp8266_uart-printer_bpw-mkcells-di02_littlefs_v2.bin"
+}
