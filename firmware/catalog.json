@@ -1,0 +1,20 @@
+[
+    {
+        "id": "DHT",
+        "name": "DataHub-Terminal",
+        "version": "0.02",
+        "date": "Apr 30 2024",
+        "time": "21:55:50",
+        "firmware": "dht_002_fw.bin",
+        "filesystem": "dht_002_fs.bin"
+    },
+    {
+        "id": "DFV",
+        "name": "DragForce-Vision",
+        "version": "0.02",
+        "date": "2024-01-01",
+        "time": "10:00:00",
+        "firmware": "dfv_002_fw.bin",
+        "filesystem": "dfv_002_fs.bin"
+    }
+]
